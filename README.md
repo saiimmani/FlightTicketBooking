@@ -23,7 +23,7 @@ A simple Python project to simulate a flight ticket booking system. This project
 3. Navigate to the folder containing the Python script.
 4. Run the script using the command:
    ```
-   python flight_booking.py
+   python flight.py
    ```
 
 ---
